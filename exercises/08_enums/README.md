@@ -1,4 +1,4 @@
-# Enums
+# EnumsResize 
 
 Rust allows you to define types called "enums" which enumerate possible values.
 Enums are a feature in many languages, but their capabilities differ in each language. Rust’s enums are most similar to algebraic data types in functional languages, such as F#, OCaml, and Haskell.
